@@ -47,7 +47,7 @@ const HeroContent: FC<HeroContentProps> = ({}) => {
       variants={slideInFromRight(0.8)}
       className="w-full h-full flex justify-center items-center "
       >
-        <Image src={"/mainIconsdark.svg"} alt="work icon" height={650} width={650}/>
+        <Image src={"https://utfs.io/f/253e0b20-553f-4853-af11-9ad8293417af-onzvah.svg"} alt="work icon" height={650} width={650}/>
       </motion.div>
     </motion.div>
   );

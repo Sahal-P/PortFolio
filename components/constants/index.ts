@@ -83,7 +83,7 @@ export const Skill_data = [
   export const Socials = [
     {
       name: "LinkedIn",
-      src: "/LinkedIn_icon.svg",
+      src: "https://utfs.io/f/32f9b63d-3efc-4dd4-8d5e-47cabf4ea366-1woha1.png",
       link: "https://www.linkedin.com/in/sahal-p-ba81a2260/",
     },
     {

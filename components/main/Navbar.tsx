@@ -38,7 +38,7 @@ const Navbar: FC<NavbarProps> = ({setIsOpened, isNavOpened}) => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/profile.jfif"
+            src="https://utfs.io/f/11c3fb85-c194-4b16-99c2-66ce1744902a-5482fr.jfif"
             className="rounded-full cursor-pointer hover:animate-slowspin max-sm:w-[35px] max-sm:h-[35px]"
             alt="logo"
             width={50}
